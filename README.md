@@ -13,7 +13,7 @@ Python, C++, Angular, HTML, CSSS, Javascript, Dart, SQL.
 
 #### 🌎 Languages
 - Spanish Native 
-- English Intermediate
+- English Advanced
 - Italian Basic
 
 #### 🏛 Courses
